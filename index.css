@@ -62,6 +62,9 @@ h1 b {
   text-align: center;
   box-sizing: border-box;
 }
+.downloads .thunder a {
+  text-transform: none;
+}
 .downloads a:hover {
   opacity: 0.9;
 }
