@@ -64,6 +64,7 @@ h1 b {
 }
 .downloads .thunder a {
   text-transform: none;
+  font-size: 12px;
 }
 .downloads a:hover {
   opacity: 0.9;
